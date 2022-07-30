@@ -32,4 +32,6 @@ Here are some of the visualizations produced in this analysis:
 
 ![vacancy_by_rating_bin](./visualizations/vacancy_by_ratingbin.png)
 
+## Blog post link
 
+https://medium.com/@matheusbafutto/what-can-data-tell-us-about-airbnb-listings-quality-and-their-price-d98930a14d92
