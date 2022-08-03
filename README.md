@@ -35,3 +35,17 @@ Here are some of the visualizations produced in this analysis:
 ## Blog post link
 
 https://medium.com/@matheusbafutto/what-can-data-tell-us-about-airbnb-listings-quality-and-their-price-d98930a14d92
+
+## Acknoledgements
+
+Here are the sources I have visited while putting this project together.
+
+- https://stackoverflow.com/questions/61960929/extract-only-columns-that-contains-true-value-from-a-dataframe-in-pandas
+- https://stackoverflow.com/questions/25351968/how-can-i-display-full-non-truncated-dataframe-information-in-html-when-conver
+- https://kanoki.org/2019/11/12/how-to-use-regex-in-pandas/
+- https://towardsdatascience.com/cleaning-and-extracting-json-from-pandas-dataframes-f0c15f93cb38
+- https://intellipaat.com/community/20261/element-wise-logical-or-in-pandas
+- https://www.datacamp.com/community/tutorials/wordcloud-python
+- Udacity Data Scientist Nanodegree - Course materials
+- https://www.fcc.gov/media/radio/dms-decimal
+- pandas, matplotlib and python docs
